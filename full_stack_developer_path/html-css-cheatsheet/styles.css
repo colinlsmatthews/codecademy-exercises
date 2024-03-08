@@ -1,6 +1,51 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: whitesmoke;
+    color: rgb(199, 191, 191);
     font-weight: lighter;
     background-color: rgb(30, 32, 32);
+}
+
+h1 {
+    text-align: left;
+}
+
+table {
+    border: 2px solid rgb(145, 142, 142);
+    width: 800px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+td {
+    border-top: 1px solid rgb(145, 142, 142);
+    border-left: 1px solid rgb(145, 142, 142);
+}
+
+th {
+    border-left: 1px solid rgb(145, 142, 142);
+    border-bottom: 3px solid rgb(145, 142, 142);
+    padding-bottom: 3px;;
+    font-weight: bold;
+}
+
+.col-left {
+    border-left: 0px;
+}
+
+.row-top {
+    border-top: 0px;
+}
+
+br.spacer {
+    line-height: 5px;
+}
+
+.code {
+    font-family: monospace;
+    font-size: larger;
+    color: rgb(231, 233, 141);
+    background-color: rgb(17, 17, 17);
+    padding: 1px;
 }
