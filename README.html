@@ -1,48 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styled Markdown</title>
-    <style>
-        /* Your CSS styles here */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-        }
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+        <title>Syllabi</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="styles.css">
+        <script src=""></script>
+    </head>
+    <body>
+        <!-- Include an empty element where the Markdown content will be inserted -->
+        <div id="markdown-content"></div>
 
-        h1, h2, h3 {
-            color: #333;
-        }
+        <!-- Include the Markdown parsing library (marked.js) -->
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-        /* Add more styles as needed */
-    </style>
-</head>
-<body>
-    <!-- Include an empty element where the Markdown content will be inserted -->
-    <div id="markdown-content"></div>
+        <!-- JavaScript to fetch and convert Markdown to HTML -->
+        <script>
+            // Function to fetch Markdown content and convert it to HTML
+            async function fetchAndRenderMarkdown(url) {
+                try {
+                    const response = await fetch(url);
+                    const markdownText = await response.text();
+                    const htmlText = marked.parse(markdownText); // Using marked function from marked.js
 
-    <!-- Include the Markdown parsing library (marked.js) -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-    <!-- JavaScript to fetch and convert Markdown to HTML -->
-    <script>
-        // Function to fetch Markdown content and convert it to HTML
-        async function fetchAndRenderMarkdown(url) {
-            try {
-                const response = await fetch(url);
-                const markdownText = await response.text();
-                const htmlText = marked.parse(markdownText); // Using marked function from marked.js
-                document.getElementById('markdown-content').innerHTML = htmlText;
-            } catch (error) {
-                console.error('Error fetching Markdown:', error);
+                    document.getElementById('markdown-content').innerHTML = htmlText;
+                } catch (error) {
+                    console.error('Error fetching Markdown:', error);
+                }
             }
-        }
 
-        // Call the function with the URL of your Markdown file
-        fetchAndRenderMarkdown('README.md');
-    </script>
-</body>
+            // Function to replace styles in HTML with CSS file content
+            async function replaceStylesWithCss(url) {
+                try {
+                    const response = await fetch(url);
+                    const cssText = await response.text();
+
+                    // Find the <style> tag in the HTML
+                    const styleTag = document.querySelector('style');
+
+                    // Replace the text inside the <style> tag with CSS content
+                    if (styleTag) {
+                        styleTag.innerHTML = cssText;
+                    }
+                } catch (error) {
+                    console.error('Error replacing styles with CSS:', error);
+                }
+            }
+
+            // Call the function with the URL of your Markdown file and CSS file
+            fetchAndRenderMarkdown('README.md');
+            // replaceStylesWithCss('styles.css');
+        </script>
+    </body>
 </html>
-
