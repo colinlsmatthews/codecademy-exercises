@@ -15,7 +15,7 @@
     <!-- CHAPTER: WELCOME TO THE FULL STACK ENGINEER PATH -->
     + <details class="chapter"><summary>Welcome to the Full Stack Engineer Path</summary>
 
-        + <details class="section"><summary>Getting Started on Full-Stack Engineering</summary>
+        + <details class="section"><summary style="color: green;">Getting Started on Full-Stack Engineering</summary>
             <table>
                 <tr>
                     <td class="check done">
