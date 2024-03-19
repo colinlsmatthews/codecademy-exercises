@@ -15,37 +15,25 @@
     <!-- CHAPTER: WELCOME TO THE FULL STACK ENGINEER PATH -->
     + <details class="chapter"><summary>Welcome to the Full Stack Engineer Path</summary>
 
-        + <details class="section"><summary style="color: green;">Getting Started on Full-Stack Engineering</summary>
+        + <details class="section"><summary>Getting Started on Full-Stack Engineering</summary>
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Welcome to the Full-Stack Engineer Path</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Helpful Resources</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Community Resources</td>
@@ -57,11 +45,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introduction: Overview of Web Development</td>
@@ -74,22 +58,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Overview of the Internet</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Languages for Web Development</td>
@@ -101,33 +77,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Welcome to the Full-Stack Engineer Path</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Helpful Resources</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Community Resources</td>
@@ -139,11 +103,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Review: Overview of Web Development</td>
@@ -160,11 +120,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introduction: Fundamentals of HTML</td>
@@ -176,22 +132,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Introduction to HTML</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Introduction to HTML</td>
@@ -204,55 +152,35 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>HTML Document Standards</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>HTML: Document Standards</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Intro to Mozilla Developer Network</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>HTML on MDN Web Docs: Debugging</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Fashion Blog</td>
@@ -264,33 +192,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>HTML Tables</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>HTML Tables</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Wine Festival Schedule</td>
@@ -302,33 +218,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Semantic HTML</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Semantic HTML</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>New York City Blog</td>
@@ -340,11 +244,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Review: Fundamentals of HTML</td>
@@ -361,11 +261,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introduction: Fundamentals of HTML</td>
@@ -377,88 +273,56 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Setup and Syntax</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Selectors</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Setup and Selectors</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Visual Rules</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Visual Rules</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Docs</th>
                     <td>Documentation: CSS</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Healthy Recipes</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Olivia Woodruff Portfolios</td>
@@ -471,66 +335,42 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>The Box Model</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Changing the Box Model</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Box Model</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>The Box Model in DevTools</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Video</th>
                     <td>The Box Model in DevTools</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>The Box Model: Davie's Burgers</td>
@@ -542,33 +382,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Display and Positioning</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Display and Positioning</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Broadway</td>
@@ -580,11 +408,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Review: Fundamentals of CSS</td>
@@ -597,11 +421,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational:</th>
                     <td>Review: Fundamentals of HTML</td>
@@ -618,11 +438,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introduction: Developing Websites Locally</td>
@@ -634,33 +450,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Getting Started with Visual Studio Code</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Building Projects with VS Code</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Create Your First Local HTML/CSS Project</td>
@@ -673,44 +477,28 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Video</th>
                     <td>Intro to Chrome Devtools</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>CSS Visual Rules in Chrome Inspector</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Off-Platform Project: Dasmoto's Arts & Crafts</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Dasmoto Project Solution</td>
@@ -722,11 +510,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Review: Developing Websites Locally</td>
@@ -744,11 +528,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introcution: Deploying Websites</td>
@@ -760,22 +540,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Video</th>
                     <td>What is Hosting?</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Video</th>
                     <td>What is a Domain Name?</td>
@@ -788,22 +560,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Resource</th>
                     <td>What is GitHub Pages?</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Creating a Website on GitHub Pages</td>
@@ -815,55 +579,35 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Navigation</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Navigation</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Setting Up Command Line</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Bicycle World</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Daily Buzz</td>
@@ -875,11 +619,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Review: Deploying Websites</td>
@@ -897,11 +637,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introduction: Improved Styling with CSS</td>
@@ -913,33 +649,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Color</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Color</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Paint Store</td>
@@ -952,33 +676,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Typography</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Typography</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Typography</td>
@@ -990,11 +702,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Challenge Project: Build Your Own Cheat Sheet</td>
@@ -1006,44 +714,28 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Learn Links and Buttons</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Affordances, Signifiers, and Clickability</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Links and Buttons</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>The Summit</td>
@@ -1055,11 +747,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Learn Secondary Navigation</td>
@@ -1067,22 +755,14 @@
                 <tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Learn Secondary Navigation</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>FreshDeals: Blueberries</td>
@@ -1094,11 +774,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Video</th>
                     <td>What are Wireframes?</td>
@@ -1106,22 +782,14 @@
                 <tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Video</th>
                     <td>From Design to Website</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Article</th>
                     <td>Everything You Need to Know about Wireframes and Prototypes</td>
@@ -1133,11 +801,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Challenge Project: Build a Website Design System</td>
@@ -1149,11 +813,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Review: Improved Styling with CSSs</td>
@@ -1171,11 +831,7 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Informational</th>
                     <td>Introduction: Making a Website Responsive</td>
@@ -1187,22 +843,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Grids and Spacing</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Qui:</th>
                     <td>Grids and Spacing</td>
@@ -1214,33 +862,21 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Flexbox</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Flexbox</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Project</th>
                     <td>Flexbox: To-Do App</td>
@@ -1263,22 +899,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Grid Essentials</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Grid</td>
@@ -1323,22 +951,14 @@
             <table>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Lesson</th>
                     <td>Sizing Elements</td>
                 </tr>
                 <tr>
                     <td class="check done">
-                        <div style="width: 100%;">
-                            <a href="https://github.com/colinlsmatthews/education-and-practice">
                             <img src="./readme_resources/checked_16.svg">
-                            </a>
-                        </div>
                     </td>
                     <th>Quiz</th>
                     <td>Sizing Elements</td>
