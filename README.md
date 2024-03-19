@@ -1,4 +1,9 @@
 # Codecademy Course Syllabi
+
+## ![plot](./readme_resources/title.svg)
+
+## ![plot](./readme_resources/subTitle.svg)
+
 <!-- COURSE: FULL STACK ENGINEER -->
 <details class="root"><summary>Full Stack Engineer</summary>
 
