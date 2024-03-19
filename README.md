@@ -1,8 +1,9 @@
 # Codecademy Course Syllabi
 
-## ![plot](./readme_resources/title.svg)
+![plot](./readme_resources/checked.svg)
+![plot](./readme_resources/unchecked.svg)
 
-## ![plot](./readme_resources/subTitle.svg)
+
 
 <!-- COURSE: FULL STACK ENGINEER -->
 <details class="root"><summary>Full Stack Engineer</summary>
@@ -16,7 +17,11 @@
         + <details class="section"><summary>Getting Started on Full-Stack Engineering</summary>
             <table>
                 <tr>
-                    <td class="check done"></td>
+                    <td class="check done">
+                        <div style="width: 100%;">
+                            <img src="./readme_resources/checked.svg" style="width: 100%;">
+                        </div>
+                    </td>
                     <th>Informational</th>
                     <td>Welcome to the Full-Stack Engineer Path</td>
                 </tr>

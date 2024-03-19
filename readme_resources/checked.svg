@@ -1,0 +1,11 @@
+<svg version="1.1"
+     viewBox="0 0 24 24"
+     width="24" height="24"
+     xmlns="http://www.w3.org/2000/svg">
+
+
+    <g class="icon">    
+        <rect x="0" y="0" width="100%" height="100%" fill="green" stroke="#182c00" stroke-width="3"/>
+        <path d="M 5 12 L 12 18 L 19 5" stroke="black" stroke-width="3" fill-opacity="0"/>
+    </g>
+</svg>
