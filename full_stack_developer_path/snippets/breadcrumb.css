@@ -1,14 +1,6 @@
 /* 
 Breadcrumb styling to create arrow effect 
-
-<ul class="breadcrumb">
-    <li><a href="">Asia</a></li>
-    <li><a href="">Singapore</a></li>
-    <li><a href="">Tourism</a></li>
-    <li><a href="">Hotels</a></li>
-</ul>
 */
-
 .breadcrumb {
     text-align: left;
   }
