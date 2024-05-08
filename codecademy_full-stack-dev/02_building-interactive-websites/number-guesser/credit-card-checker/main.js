@@ -25,6 +25,69 @@ const batch = [valid1, valid2, valid3, valid4, valid5, invalid1, invalid2, inval
 
 // Add your functions below:
 
+function validateCred(arr) {
+    let newArr = [arr[-1]];
+    for (let i = (arr.length - 2); i > 0; i--) {
+        let doubled = arr[i] * 2;
+        if (doubled > 9) {
+            doubled = doubled - 9;
+        }
+        newArr.push(doubled);
+    }
+    let total = 0;
+    newArr.forEach ((item) => total += item)
+    if (total % 10 === true) {
+        return true;
+    } else { return false; }
+}
+
+// Test functions:
+console.log(validateCred(valid1)); // Should print true
+console.log(validateCred(invalid1)); // Should print false
+
+function findInvalidCards (nestedArr) {
+    let outputArr = []
+    nestedArr.forEach((arr) => {
+        if (!validateCred(arr)) {
+            outputArr.push(arr);
+        }
+    });
+    return outputArr;
+}
+
+// Test function
+console.log(findInvalidCards([valid1, valid2, valid3, valid4, valid5]));// Shouldn't print anything
+console.log(findInvalidCards([invalid1, invalid2, invalid3, invalid4, invalid5])); // Should print all of the numbers
+
+console.log(findInvalidCards(batch)); // Test what the mystery numbers are
+
+
+function idInvalidCardCompanies(nestedArr) {
+    let outputArr = [];
+    const companies = {
+        3: 'Amex (American Express',
+        4: 'Visa',
+        5: 'Mastercard',
+        6: 'Discover',
+    }
+    nestedArr.forEach((arr) => {
+        if (Object.keys(companies).findIndex(arr[0]) === -1) {
+                const output = 'Company not found';
+        } else {
+            const output = companies[arr[0]];
+        }
+        if (output in outputArr) {
+            continue;
+        } else {
+            outputArr.push(output);
+        }
+    });
+    return outputArr;
+}
+
+console.log(idInvalidCardCompanies([invalid1])); // Should print['visa']
+console.log(idInvalidCardCompanies([invalid2])); // Should print ['mastercard']
+console.log(idInvalidCardCompanies(batch)); // Find out which companies have mailed out invalid cards
 
 
 
