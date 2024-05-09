@@ -25,24 +25,26 @@ const batch = [valid1, valid2, valid3, valid4, valid5, invalid1, invalid2, inval
 
 // Add your functions below:
 
-function validateCred(arr) {
-    let newArr = [arr[-1]];
-    for (let i = (arr.length - 2); i > 0; i--) {
-        let doubled = arr[i] * 2;
-        if (doubled > 9) {
-            doubled = doubled - 9;
-        }
-        newArr.push(doubled);
-    }
+function validateCred(numArr) {
     let total = 0;
-    newArr.forEach ((item) => total += item)
-    if (total % 10 === true) {
-        return true;
-    } else { return false; }
+    for (let i = (numArr.length - 1); i >= 0; i--) {
+        let currValue = numArr[i];
+        if ((numArr.length - 1 - i) % 2 === 1) {
+            currValue *= 2;
+            if (currValue > 9) {
+                currValue -= 9;
+            }
+        }
+        total += currValue;
+    }
+    return total % 10 === 0;
 }
 
+
 // Test functions:
+console.log('Should print true:');
 console.log(validateCred(valid1)); // Should print true
+console.log('Should print false:');
 console.log(validateCred(invalid1)); // Should print false
 
 function findInvalidCards (nestedArr) {
@@ -56,9 +58,11 @@ function findInvalidCards (nestedArr) {
 }
 
 // Test function
+console.log('Shouldn\'t print anything:');
 console.log(findInvalidCards([valid1, valid2, valid3, valid4, valid5]));// Shouldn't print anything
+console.log('Should print all of the numbers');
 console.log(findInvalidCards([invalid1, invalid2, invalid3, invalid4, invalid5])); // Should print all of the numbers
-
+console.log('Test mystery numbers');
 console.log(findInvalidCards(batch)); // Test what the mystery numbers are
 
 
@@ -71,22 +75,25 @@ function idInvalidCardCompanies(nestedArr) {
         6: 'Discover',
     }
     nestedArr.forEach((arr) => {
-        if (Object.keys(companies).findIndex(arr[0]) === -1) {
-                const output = 'Company not found';
+        let output = '';
+        if (Object.keys(companies).indexOf(arr[0]) === -1) {
+                output = 'Company not found';
         } else {
-            const output = companies[arr[0]];
+            output = companies[arr[0]];
         }
         if (output in outputArr) {
-            continue;
+            pass;
         } else {
             outputArr.push(output);
         }
     });
     return outputArr;
 }
-
+console.log('Should print visa:');
 console.log(idInvalidCardCompanies([invalid1])); // Should print['visa']
+console.log('Should print mastercard:');
 console.log(idInvalidCardCompanies([invalid2])); // Should print ['mastercard']
+console.log('Find out which companies have mailed out invalid cards:');
 console.log(idInvalidCardCompanies(batch)); // Find out which companies have mailed out invalid cards
 
 
