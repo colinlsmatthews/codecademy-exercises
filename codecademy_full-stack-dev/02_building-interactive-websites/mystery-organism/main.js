@@ -14,7 +14,7 @@ const mockUpStrand = () => {
 };
 
 // Factory function
-let pAequor = (num, arr) => {
+const pAequor = (num, arr) => {
   return {
     specimenNum: num,
     dna: arr,
@@ -34,8 +34,17 @@ let pAequor = (num, arr) => {
       }
       const percentage = ((count / this.dna.length) * 100).toFixed(2);
       console.log(`Specimen ${num} and ${pAequorCompare.specimenNum} have ${percentage}% DNA in Common.`)
+    },
+    willLikelySurvive() {
+      let count = 0;
+      for (let i = 0; i < this.dna.length; i ++) {
+        if (this.dna[i] === "C" || this.dna[i] === "G") {
+          count += 1;
+        }
+      }
+      const percentage = ((count / this.dna.length) * 100).toFixed(2);
+      return (percentage >= 60);
     }
-    
   }
 }
 
@@ -48,4 +57,16 @@ const testSample2 = pAequor(4, mockUpStrand());
 console.log(testSample2.dna);
 testSample1.compareDNA(testSample2);
 
+console.log(testSample1.willLikelySurvive());
+console.log(testSample2.willLikelySurvive());
 
+let pAequorArray1 = [];
+let count = 0;
+while (count <= 30) {
+  const pAequorInstance = pAequor(count, mockUpStrand());
+  if (pAequorInstance.willLikelySurvive()){
+    pAequorArray1.push(pAequorInstance);
+  }
+  count += 1
+}
+console.log(pAequorArray1);
