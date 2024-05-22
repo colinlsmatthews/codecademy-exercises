@@ -44,6 +44,12 @@ const pAequor = (num, arr) => {
       }
       const percentage = ((count / this.dna.length) * 100).toFixed(2);
       return (percentage >= 60);
+    },
+    complementStrand() {
+      // Create a .complementStrand() method to the factory function’s 
+      // object that returns the complementary DNA strand. The rules are 
+      // that 'A's match with 'T's and vice versa. Also, 'C's match with 
+      // 'G's and vice versa. (Check the hint for more details)
     }
   }
 }

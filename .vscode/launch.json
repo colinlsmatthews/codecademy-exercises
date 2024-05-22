@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\codecademy_full-stack-dev\\02_building-interactive-websites\\mystery-organism\\main.js"
+            "program": "${workspaceFolder}\\codecademy_full-stack-dev\\02_building-interactive-websites\\message-selector\\main.js"
             
         }
     ]
