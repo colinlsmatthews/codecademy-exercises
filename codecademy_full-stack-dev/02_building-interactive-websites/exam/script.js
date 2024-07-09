@@ -42,7 +42,7 @@ const searchBtnClickHandler = (books) => {
 
   const displayDiv = document.querySelector('#bookList');
   for (let i = 0; i < outputHTML.length; i++) {
-    displayDiv.appendChild(outputHTML[i]);
+    displayDiv.append(outputHTML[i]);
   }
 }
 
